@@ -5,3 +5,5 @@ The main program reads variables from other python files to load in items, quest
 Shops are being worked on
 
 Currently the data files contain example items, quests and rooms.
+
+(Work In Progress)
